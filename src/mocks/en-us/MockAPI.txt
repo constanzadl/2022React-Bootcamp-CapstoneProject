@@ -1,0 +1,3 @@
+Banners: https://mocki.io/v1/f3dc8ed7-6b7e-4b09-bc5e-17375d89557f
+Products: https://mocki.io/v1/6d9a731e-e212-4f11-a26f-0bccd6f5af01
+Categories: https://mocki.io/v1/6d9a731e-e212-4f11-a26f-0bccd6f5af01
